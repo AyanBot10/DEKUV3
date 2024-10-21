@@ -38,11 +38,7 @@ module.exports = {
 🤖 Hercai AI
 ━━━━━━━━━━━━━━━━━━
 ${responseString}
-━━━━━━━━━━━━━━━━━━
--𝚆𝙰𝙶 𝙼𝙾 𝙲𝙾𝙿𝚈 𝙻𝙰𝙷𝙰𝚃 𝙽𝙶 𝚂𝙰𝙶𝙾𝚃 𝙺𝚄𝙽𝙶 𝙰𝚈𝙰𝚆 𝙼𝙾𝙽𝙶 𝙼𝙰𝙷𝙰𝙻𝙰𝚃𝙰
-━━━━━━━━━━━━━━━━━━
-If you want to donate for the server, just PM or Add the developer: [https://www.facebook.com/Churchill.Dev4100]
-            `;
+━━━━━━━━━━━━━━━━━━`;
 
             await api.editMessage(formattedResponse.trim(), initialMessage.messageID);
 
